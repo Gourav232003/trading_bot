@@ -1,0 +1,2 @@
+2026-02-02 02:33:30,678 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 60000.0, 'timeInForce': 'GTC'}
+2026-02-02 02:33:32,649 | ERROR | Order failed: BinanceRequestException: Invalid Response: 

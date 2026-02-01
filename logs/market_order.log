@@ -1,0 +1,2 @@
+2026-02-02 02:33:13,827 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-02 02:33:16,404 | ERROR | Order failed: BinanceRequestException: Invalid Response: 
